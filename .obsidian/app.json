@@ -1,0 +1,12 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "笔记/00 Inbox",
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "trashOption": "local",
+  "attachmentFolderPath": "笔记/01 attachment",
+  "legacyEditor": false,
+  "alwaysUpdateLinks": true,
+  "autoPairBrackets": true,
+  "autoPairMarkdown": false
+}
